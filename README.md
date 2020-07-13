@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🔭 I’m currently working on remote delivery of embedded C and C++ training
+
+see www.feabhas.com for details
 
 <!--
 **nscooling/nscooling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
